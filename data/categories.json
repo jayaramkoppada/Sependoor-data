@@ -1,22 +1,12 @@
 [
-  {
-    "id": 1,
-    "name": "Groceries",
-    "imageUrl": "https://via.placeholder.com/150"
-  },
-  {
-    "id": 2,
-    "name": "Electronics",
-    "imageUrl": "https://via.placeholder.com/150"
-  },
-  {
-    "id": 3,
-    "name": "Clothing",
-    "imageUrl": "https://via.placeholder.com/150"
-  },
-  {
-    "id": 4,
-    "name": "Home & Kitchen",
-    "imageUrl": "https://via.placeholder.com/150"
-  }
+  { "id": 1, "name": "Groceries", "imageUrl": "https://source.unsplash.com/600x400/?groceries" },
+  { "id": 2, "name": "Vegetables & Fruits", "imageUrl": "https://source.unsplash.com/600x400/?vegetables,fruits" },
+  { "id": 3, "name": "Personal Care", "imageUrl": "https://source.unsplash.com/600x400/?personalcare" },
+  { "id": 4, "name": "Home & Kitchen", "imageUrl": "https://source.unsplash.com/600x400/?kitchen" },
+  { "id": 5, "name": "Baby & Kids", "imageUrl": "https://source.unsplash.com/600x400/?baby" },
+  { "id": 6, "name": "Beverages", "imageUrl": "https://source.unsplash.com/600x400/?beverages" },
+  { "id": 7, "name": "Snacks & Branded Foods", "imageUrl": "https://source.unsplash.com/600x400/?snacks" },
+  { "id": 8, "name": "Meat & Seafood", "imageUrl": "https://source.unsplash.com/600x400/?meat" },
+  { "id": 9, "name": "Household Essentials", "imageUrl": "https://source.unsplash.com/600x400/?cleaning" },
+  { "id": 10, "name": "Stationery & Office", "imageUrl": "https://source.unsplash.com/600x400/?stationery" }
 ]

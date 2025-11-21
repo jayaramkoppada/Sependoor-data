@@ -1,53 +1,65 @@
 [
-  {
-    "id": 1,
-    "name": "Rice",
-    "categoryId": 1,
-    "imageUrl": "https://via.placeholder.com/120"
-  },
-  {
-    "id": 2,
-    "name": "Spices",
-    "categoryId": 1,
-    "imageUrl": "https://via.placeholder.com/120"
-  },
+  { "id": 1, "name": "Rice & Grains", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?rice" },
+  { "id": 2, "name": "Atta & Flours", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?flour" },
+  { "id": 3, "name": "Pulses & Lentils", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?lentils" },
+  { "id": 4, "name": "Spices & Masalas", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?spices" },
+  { "id": 5, "name": "Oils & Ghee", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?oil" },
+  { "id": 6, "name": "Dry Fruits & Nuts", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?dryfruits" },
+  { "id": 7, "name": "Snacks & Namkeen", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?namkeen" },
+  { "id": 8, "name": "Tea, Coffee & Beverages", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?tea" },
+  { "id": 9, "name": "Dairy & Bakery", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?dairy" },
+  { "id": 10, "name": "Instant & Ready-to-Eat", "categoryId": 1, "imageUrl": "https://source.unsplash.com/600x400/?instantfood" },
 
-  {
-    "id": 3,
-    "name": "Mobiles",
-    "categoryId": 2,
-    "imageUrl": "https://via.placeholder.com/120"
-  },
-  {
-    "id": 4,
-    "name": "Laptops",
-    "categoryId": 2,
-    "imageUrl": "https://via.placeholder.com/120"
-  },
+  { "id": 11, "name": "Fresh Vegetables", "categoryId": 2, "imageUrl": "https://source.unsplash.com/600x400/?vegetables" },
+  { "id": 12, "name": "Fresh Fruits", "categoryId": 2, "imageUrl": "https://source.unsplash.com/600x400/?fruits" },
+  { "id": 13, "name": "Exotic Vegetables", "categoryId": 2, "imageUrl": "https://source.unsplash.com/600x400/?exoticvegetables" },
+  { "id": 14, "name": "Exotic Fruits", "categoryId": 2, "imageUrl": "https://source.unsplash.com/600x400/?exoticfruits" },
+  { "id": 15, "name": "Organic Vegetables", "categoryId": 2, "imageUrl": "https://source.unsplash.com/600x400/?organicvegetables" },
+  { "id": 16, "name": "Organic Fruits", "categoryId": 2, "imageUrl": "https://source.unsplash.com/600x400/?organicfruits" },
 
-  {
-    "id": 5,
-    "name": "Men",
-    "categoryId": 3,
-    "imageUrl": "https://via.placeholder.com/120"
-  },
-  {
-    "id": 6,
-    "name": "Women",
-    "categoryId": 3,
-    "imageUrl": "https://via.placeholder.com/120"
-  },
+  { "id": 17, "name": "Hair Care", "categoryId": 3, "imageUrl": "https://source.unsplash.com/600x400/?shampoo" },
+  { "id": 18, "name": "Skin Care", "categoryId": 3, "imageUrl": "https://source.unsplash.com/600x400/?skincare" },
+  { "id": 19, "name": "Oral Care", "categoryId": 3, "imageUrl": "https://source.unsplash.com/600x400/?oralcare" },
+  { "id": 20, "name": "Bath & Body", "categoryId": 3, "imageUrl": "https://source.unsplash.com/600x400/?soap" },
+  { "id": 21, "name": "Men’s Grooming", "categoryId": 3, "imageUrl": "https://source.unsplash.com/600x400/?grooming" },
+  { "id": 22, "name": "Women’s Hygiene", "categoryId": 3, "imageUrl": "https://source.unsplash.com/600x400/?hygiene" },
 
-  {
-    "id": 7,
-    "name": "Kitchen Appliances",
-    "categoryId": 4,
-    "imageUrl": "https://via.placeholder.com/120"
-  },
-  {
-    "id": 8,
-    "name": "Furniture",
-    "categoryId": 4,
-    "imageUrl": "https://via.placeholder.com/120"
-  }
+  { "id": 23, "name": "Kitchen Essentials", "categoryId": 4, "imageUrl": "https://source.unsplash.com/600x400/?kitchenitems" },
+  { "id": 24, "name": "Cookware", "categoryId": 4, "imageUrl": "https://source.unsplash.com/600x400/?cookware" },
+  { "id": 25, "name": "Storage Containers", "categoryId": 4, "imageUrl": "https://source.unsplash.com/600x400/?containers" },
+  { "id": 26, "name": "Home Decor", "categoryId": 4, "imageUrl": "https://source.unsplash.com/600x400/?homedecor" },
+  { "id": 27, "name": "Cleaning Supplies", "categoryId": 4, "imageUrl": "https://source.unsplash.com/600x400/?cleaning" },
+
+  { "id": 28, "name": "Baby Food", "categoryId": 5, "imageUrl": "https://source.unsplash.com/600x400/?babyfood" },
+  { "id": 29, "name": "Diapers & Wipes", "categoryId": 5, "imageUrl": "https://source.unsplash.com/600x400/?diapers" },
+  { "id": 30, "name": "Baby Bathing", "categoryId": 5, "imageUrl": "https://source.unsplash.com/600x400/?babybath" },
+  { "id": 31, "name": "Baby Toys", "categoryId": 5, "imageUrl": "https://source.unsplash.com/600x400/?babytoys" },
+
+  { "id": 32, "name": "Juices", "categoryId": 6, "imageUrl": "https://source.unsplash.com/600x400/?juice" },
+  { "id": 33, "name": "Soft Drinks", "categoryId": 6, "imageUrl": "https://source.unsplash.com/600x400/?softdrink" },
+  { "id": 34, "name": "Health Drinks", "categoryId": 6, "imageUrl": "https://source.unsplash.com/600x400/?healthdrink" },
+  { "id": 35, "name": "Energy Drinks", "categoryId": 6, "imageUrl": "https://source.unsplash.com/600x400/?energydrink" },
+
+  { "id": 36, "name": "Biscuits & Cookies", "categoryId": 7, "imageUrl": "https://source.unsplash.com/600x400/?biscuits" },
+  { "id": 37, "name": "Chips & Crisps", "categoryId": 7, "imageUrl": "https://source.unsplash.com/600x400/?chips" },
+  { "id": 38, "name": "Chocolates & Sweets", "categoryId": 7, "imageUrl": "https://source.unsplash.com/600x400/?chocolates" },
+  { "id": 39, "name": "Instant Noodles", "categoryId": 7, "imageUrl": "https://source.unsplash.com/600x400/?noodles" },
+  { "id": 40, "name": "Sauces & Spreads", "categoryId": 7, "imageUrl": "https://source.unsplash.com/600x400/?sauces" },
+
+  { "id": 41, "name": "Fresh Chicken", "categoryId": 8, "imageUrl": "https://source.unsplash.com/600x400/?chicken" },
+  { "id": 42, "name": "Fresh Mutton", "categoryId": 8, "imageUrl": "https://source.unsplash.com/600x400/?mutton" },
+  { "id": 43, "name": "Fresh Fish", "categoryId": 8, "imageUrl": "https://source.unsplash.com/600x400/?fish" },
+  { "id": 44, "name": "Frozen Meat", "categoryId": 8, "imageUrl": "https://source.unsplash.com/600x400/?frozenmeat" },
+  { "id": 45, "name": "Eggs", "categoryId": 8, "imageUrl": "https://source.unsplash.com/600x400/?eggs" },
+
+  { "id": 46, "name": "Detergents", "categoryId": 9, "imageUrl": "https://source.unsplash.com/600x400/?detergent" },
+  { "id": 47, "name": "Dishwashers", "categoryId": 9, "imageUrl": "https://source.unsplash.com/600x400/?dishwasher" },
+  { "id": 48, "name": "Floor Cleaners", "categoryId": 9, "imageUrl": "https://source.unsplash.com/600x400/?floorcleaner" },
+  { "id": 49, "name": "Room Fresheners", "categoryId": 9, "imageUrl": "https://source.unsplash.com/600x400/?airfreshener" },
+  { "id": 50, "name": "Tissues & Napkins", "categoryId": 9, "imageUrl": "https://source.unsplash.com/600x400/?tissues" },
+
+  { "id": 51, "name": "Pens & Writing", "categoryId": 10, "imageUrl": "https://source.unsplash.com/600x400/?pen" },
+  { "id": 52, "name": "Notebooks", "categoryId": 10, "imageUrl": "https://source.unsplash.com/600x400/?notebook" },
+  { "id": 53, "name": "Office Supplies", "categoryId": 10, "imageUrl": "https://source.unsplash.com/600x400/?office" },
+  { "id": 54, "name": "Art & Craft Supplies", "categoryId": 10, "imageUrl": "https://source.unsplash.com/600x400/?craft" }
 ]

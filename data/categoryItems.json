@@ -1,0 +1,321 @@
+[
+  { "itemId": 1001, "subcategoryId": 101, "name": "Basmati Rice 5kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/basmati-rice-5kg.png" },
+  { "itemId": 1002, "subcategoryId": 101, "name": "Sona Masoori 5kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/sona-masoori-5kg.png" },
+  { "itemId": 1003, "subcategoryId": 101, "name": "Brown Rice 2kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/brown-rice-2kg.png" },
+
+  { "itemId": 1004, "subcategoryId": 102, "name": "Toor Dal 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/toor-dal-1kg.png" },
+  { "itemId": 1005, "subcategoryId": 102, "name": "Moong Dal 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/moong-dal-1kg.png" },
+  { "itemId": 1006, "subcategoryId": 102, "name": "Chana Dal 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/chana-dal-1kg.png" },
+
+  { "itemId": 1007, "subcategoryId": 103, "name": "Turmeric Powder 200g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/turmeric-200g.png" },
+  { "itemId": 1008, "subcategoryId": 103, "name": "Red Chilli Powder 200g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/red-chilli-200g.png" },
+  { "itemId": 1009, "subcategoryId": 103, "name": "Garam Masala 100g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/garam-masala-100g.png" },
+
+  { "itemId": 1010, "subcategoryId": 104, "name": "Sunflower Oil 1L", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/sunflower-oil-1l.png" },
+  { "itemId": 1011, "subcategoryId": 104, "name": "Groundnut Oil 1L", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/groundnut-oil-1l.png" },
+  { "itemId": 1012, "subcategoryId": 104, "name": "Ghee 500g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/ghee-500g.png" },
+
+  { "itemId": 1013, "subcategoryId": 105, "name": "Spinach Bunch", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/spinach.png" },
+  { "itemId": 1014, "subcategoryId": 105, "name": "Mint Bunch", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mint.png" },
+  { "itemId": 1015, "subcategoryId": 105, "name": "Coriander Bunch", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/coriander.png" },
+
+  { "itemId": 1016, "subcategoryId": 106, "name": "Potato 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/potato-1kg.png" },
+  { "itemId": 1017, "subcategoryId": 106, "name": "Carrot 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/carrot-1kg.png" },
+  { "itemId": 1018, "subcategoryId": 106, "name": "Beetroot 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/beetroot-1kg.png" },
+
+  { "itemId": 1019, "subcategoryId": 107, "name": "Tomato 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/tomato-1kg.png" },
+  { "itemId": 1020, "subcategoryId": 107, "name": "Onion 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/onion-1kg.png" },
+  { "itemId": 1021, "subcategoryId": 107, "name": "Capsicum 500g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/capsicum-500g.png" },
+
+  { "itemId": 1022, "subcategoryId": 108, "name": "Organic Mixed Veg Pack", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/organic-mix.png" },
+  { "itemId": 1023, "subcategoryId": 108, "name": "Organic Tomato 500g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/organic-tomato.png" },
+  { "itemId": 1024, "subcategoryId": 108, "name": "Organic Potato 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/organic-potato.png" },
+
+  { "itemId": 1025, "subcategoryId": 109, "name": "Apple (Red) 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/apple-1kg.png" },
+  { "itemId": 1026, "subcategoryId": 109, "name": "Orange 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/orange-1kg.png" },
+  { "itemId": 1027, "subcategoryId": 109, "name": "Lemon 250g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/lemon-250g.png" },
+
+  { "itemId": 1028, "subcategoryId": 110, "name": "Mango (Alphonso) 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mango-1kg.png" },
+  { "itemId": 1029, "subcategoryId": 110, "name": "Papaya 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/papaya-1kg.png" },
+  { "itemId": 1030, "subcategoryId": 110, "name": "Watermelon 1pc", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/watermelon.png" },
+
+  { "itemId": 1031, "subcategoryId": 111, "name": "Strawberries 250g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/strawberries.png" },
+  { "itemId": 1032, "subcategoryId": 111, "name": "Blueberries 125g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/blueberries.png" },
+  { "itemId": 1033, "subcategoryId": 111, "name": "Avocado", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/avocado.png" },
+
+  { "itemId": 1034, "subcategoryId": 112, "name": "Almonds 250g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/almonds-250g.png" },
+  { "itemId": 1035, "subcategoryId": 112, "name": "Cashews 250g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/cashews-250g.png" },
+  { "itemId": 1036, "subcategoryId": 112, "name": "Raisins 200g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/raisins-200g.png" },
+
+  { "itemId": 1037, "subcategoryId": 113, "name": "Android Charger", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/android-charger.png" },
+  { "itemId": 1038, "subcategoryId": 113, "name": "Lightning Cable", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/lightning-cable.png" },
+  { "itemId": 1039, "subcategoryId": 113, "name": "Power Bank 10000mAh", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/powerbank-10000.png" },
+
+  { "itemId": 1040, "subcategoryId": 114, "name": "Mixer Grinder", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mixer-grinder.png" },
+  { "itemId": 1041, "subcategoryId": 114, "name": "Microwave Oven", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/microwave.png" },
+  { "itemId": 1042, "subcategoryId": 114, "name": "Electric Kettle", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/kettle.png" },
+
+  { "itemId": 1043, "subcategoryId": 115, "name": "Wireless Mouse", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/wireless-mouse.png" },
+  { "itemId": 1044, "subcategoryId": 115, "name": "Mechanical Keyboard", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mech-keyboard.png" },
+  { "itemId": 1045, "subcategoryId": 115, "name": "Laptop 14\"", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/laptop-14.png" },
+
+  { "itemId": 1046, "subcategoryId": 116, "name": "LED Bulb", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/led-bulb.png" },
+  { "itemId": 1047, "subcategoryId": 116, "name": "Extension Cord", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/extension-cord.png" },
+  { "itemId": 1048, "subcategoryId": 116, "name": "Switch Board", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/switch-board.png" },
+
+  { "itemId": 1049, "subcategoryId": 117, "name": "Men's Formal Shirt", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mens-shirt.png" },
+  { "itemId": 1050, "subcategoryId": 117, "name": "Men's Jeans", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mens-jeans.png" },
+  { "itemId": 1051, "subcategoryId": 117, "name": "Men's T-Shirt", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mens-tshirt.png" },
+
+  { "itemId": 1052, "subcategoryId": 118, "name": "Women Kurti", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/women-kurti.png" },
+  { "itemId": 1053, "subcategoryId": 118, "name": "Women's Jeans", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/women-jeans.png" },
+  { "itemId": 1054, "subcategoryId": 118, "name": "Women's Top", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/women-top.png" },
+
+  { "itemId": 1055, "subcategoryId": 119, "name": "Kids T-Shirt", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/kids-tshirt.png" },
+  { "itemId": 1056, "subcategoryId": 119, "name": "Baby Romper", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/baby-romper.png" },
+  { "itemId": 1057, "subcategoryId": 119, "name": "School Uniform", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/school-uniform.png" },
+
+  { "itemId": 1058, "subcategoryId": 120, "name": "Wallet", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/wallet.png" },
+  { "itemId": 1059, "subcategoryId": 120, "name": "Belt", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/belt.png" },
+  { "itemId": 1060, "subcategoryId": 120, "name": "Sunglasses", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/sunglasses.png" },
+
+  { "itemId": 1061, "subcategoryId": 121, "name": "Soft Rattle Toy", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/rattle.png" },
+  { "itemId": 1062, "subcategoryId": 121, "name": "Teether", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/teether.png" },
+  { "itemId": 1063, "subcategoryId": 121, "name": "Musical Toy", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/musical-toy.png" },
+
+  { "itemId": 1064, "subcategoryId": 122, "name": "Alphabet Blocks", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/blocks.png" },
+  { "itemId": 1065, "subcategoryId": 122, "name": "Puzzle Set", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/puzzle.png" },
+  { "itemId": 1066, "subcategoryId": 122, "name": "Educational Board", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/educational-board.png" },
+
+  { "itemId": 1067, "subcategoryId": 123, "name": "Tricycle", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/tricycle.png" },
+  { "itemId": 1068, "subcategoryId": 123, "name": "Frisbee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/frisbee.png" },
+  { "itemId": 1069, "subcategoryId": 123, "name": "Kite", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/kite.png" },
+
+  { "itemId": 1070, "subcategoryId": 124, "name": "Chess Board", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/chess.png" },
+  { "itemId": 1071, "subcategoryId": 124, "name": "Monopoly", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/monopoly.png" },
+  { "itemId": 1072, "subcategoryId": 124, "name": "Scrabble", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/scrabble.png" },
+
+  { "itemId": 1073, "subcategoryId": 125, "name": "ACT Broadband Bill", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/act-bill.png" },
+  { "itemId": 1074, "subcategoryId": 125, "name": "Airtel Broadband Bill", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/airtel-bill.png" },
+  { "itemId": 1075, "subcategoryId": 125, "name": "JioFiber Bill", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/jio-bill.png" },
+
+  { "itemId": 1076, "subcategoryId": 126, "name": "Mobile Data Pack", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mobile-data.png" },
+  { "itemId": 1077, "subcategoryId": 126, "name": "Mobile Hotspot Device", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/hotspot.png" },
+  { "itemId": 1078, "subcategoryId": 126, "name": "SIM Recharge", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/sim-recharge.png" },
+
+  { "itemId": 1079, "subcategoryId": 127, "name": "Prepaid Recharge Rs.199", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/prepaid-199.png" },
+  { "itemId": 1080, "subcategoryId": 127, "name": "Prepaid Recharge Rs.399", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/prepaid-399.png" },
+  { "itemId": 1081, "subcategoryId": 127, "name": "International Roaming Pack", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/roaming.png" },
+
+  { "itemId": 1082, "subcategoryId": 128, "name": "Router (AC1200)", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/router-ac1200.png" },
+  { "itemId": 1083, "subcategoryId": 128, "name": "WiFi Extender", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/wifi-extender.png" },
+  { "itemId": 1084, "subcategoryId": 128, "name": "4G Modem", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/4g-modem.png" },
+
+  { "itemId": 1085, "subcategoryId": 129, "name": "Netflix Monthly", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/netflix.png" },
+  { "itemId": 1086, "subcategoryId": 129, "name": "Prime Video Monthly", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/prime-video.png" },
+  { "itemId": 1087, "subcategoryId": 129, "name": "Disney+ Hotstar", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/hotstar.png" },
+
+  { "itemId": 1088, "subcategoryId": 130, "name": "Spotify Premium", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/spotify.png" },
+  { "itemId": 1089, "subcategoryId": 130, "name": "YouTube Music", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/youtube-music.png" },
+  { "itemId": 1090, "subcategoryId": 130, "name": "Gaana Plus", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/gaana.png" },
+
+  { "itemId": 1091, "subcategoryId": 131, "name": "Newspaper Subscription", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/newspaper.png" },
+  { "itemId": 1092, "subcategoryId": 131, "name": "Magazine Subscription", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/magazine.png" },
+  { "itemId": 1093, "subcategoryId": 131, "name": "News App Premium", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/news-premium.png" },
+
+  { "itemId": 1094, "subcategoryId": 132, "name": "Xbox Game Pass", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/xbox-pass.png" },
+  { "itemId": 1095, "subcategoryId": 132, "name": "PlayStation Plus", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/ps-plus.png" },
+  { "itemId": 1096, "subcategoryId": 132, "name": "Steam Wallet Topup", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/steam.png" },
+
+  { "itemId": 1097, "subcategoryId": 133, "name": "Non-stick Pan", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/nonstick-pan.png" },
+  { "itemId": 1098, "subcategoryId": 133, "name": "Pressure Cooker", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/pressure-cooker.png" },
+  { "itemId": 1099, "subcategoryId": 133, "name": "Frying Pan", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/frying-pan.png" },
+
+  { "itemId": 1100, "subcategoryId": 134, "name": "Dish Soap Bottle", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/dish-soap.png" },
+  { "itemId": 1101, "subcategoryId": 134, "name": "Floor Cleaner 1L", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/floor-cleaner.png" },
+  { "itemId": 1102, "subcategoryId": 134, "name": "Glass Cleaner", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/glass-cleaner.png" },
+
+  { "itemId": 1103, "subcategoryId": 135, "name": "Dinner Plate Set", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/dinner-plates.png" },
+  { "itemId": 1104, "subcategoryId": 135, "name": "Serving Bowl", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/serving-bowl.png" },
+  { "itemId": 1105, "subcategoryId": 135, "name": "Cutlery Set", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/cutlery.png" },
+
+  { "itemId": 1106, "subcategoryId": 136, "name": "Storage Container 1L", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/storage-1l.png" },
+  { "itemId": 1107, "subcategoryId": 136, "name": "Vacuum Box", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/vacuum-box.png" },
+  { "itemId": 1108, "subcategoryId": 136, "name": "Shoe Organizer", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/shoe-organizer.png" },
+
+  { "itemId": 1109, "subcategoryId": 137, "name": "Ball Pen Pack", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/ball-pen.png" },
+  { "itemId": 1110, "subcategoryId": 137, "name": "Marker Pen", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/marker-pen.png" },
+  { "itemId": 1111, "subcategoryId": 137, "name": "Highlighter Set", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/highlighter.png" },
+
+  { "itemId": 1112, "subcategoryId": 138, "name": "A4 Notebook", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/a4-notebook.png" },
+  { "itemId": 1113, "subcategoryId": 138, "name": "Spiral Notebook", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/spiral-notebook.png" },
+  { "itemId": 1114, "subcategoryId": 138, "name": "Sticky Notes", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/sticky-notes.png" },
+
+  { "itemId": 1115, "subcategoryId": 139, "name": "Stapler", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/stapler.png" },
+  { "itemId": 1116, "subcategoryId": 139, "name": "Hole Punch", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/hole-punch.png" },
+  { "itemId": 1117, "subcategoryId": 139, "name": "Paper Cutter", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/paper-cutter.png" },
+
+  { "itemId": 1118, "subcategoryId": 140, "name": "Acrylic Colors", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/acrylic-colors.png" },
+  { "itemId": 1119, "subcategoryId": 140, "name": "Brush Set", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/brush-set.png" },
+  { "itemId": 1120, "subcategoryId": 140, "name": "Canvas Board", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/canvas-board.png" },
+
+  { "itemId": 1121, "subcategoryId": 141, "name": "Shampoo 200ml", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/shampoo.png" },
+  { "itemId": 1122, "subcategoryId": 141, "name": "Conditioner 200ml", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/conditioner.png" },
+  { "itemId": 1123, "subcategoryId": 141, "name": "Hair Oil 200ml", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/hair-oil.png" },
+
+  { "itemId": 1124, "subcategoryId": 142, "name": "Face Wash", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/face-wash.png" },
+  { "itemId": 1125, "subcategoryId": 142, "name": "Moisturizer", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/moisturizer.png" },
+  { "itemId": 1126, "subcategoryId": 142, "name": "Sunscreen", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/sunscreen.png" },
+
+  { "itemId": 1127, "subcategoryId": 143, "name": "Toothpaste", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/toothpaste.png" },
+  { "itemId": 1128, "subcategoryId": 143, "name": "Toothbrush Pack", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/toothbrush.png" },
+  { "itemId": 1129, "subcategoryId": 143, "name": "Mouthwash", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mouthwash.png" },
+
+  { "itemId": 1130, "subcategoryId": 144, "name": "Trimmer", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/trimmer.png" },
+  { "itemId": 1131, "subcategoryId": 144, "name": "Hair Dryer", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/hair-dryer.png" },
+  { "itemId": 1132, "subcategoryId": 144, "name": "Nose Trimmer", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/nose-trimmer.png" },
+
+  { "itemId": 1133, "subcategoryId": 145, "name": "Paracetamol 10", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/paracetamol.png" },
+  { "itemId": 1134, "subcategoryId": 145, "name": "Cough Syrup", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/cough-syrup.png" },
+  { "itemId": 1135, "subcategoryId": 145, "name": "First Aid Kit", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/first-aid.png" },
+
+  { "itemId": 1136, "subcategoryId": 146, "name": "Blood Test", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/blood-test.png" },
+  { "itemId": 1137, "subcategoryId": 146, "name": "X-Ray", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/xray.png" },
+  { "itemId": 1138, "subcategoryId": 146, "name": "Ultrasound", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/ultrasound.png" },
+
+  { "itemId": 1139, "subcategoryId": 147, "name": "General Physician Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/doctor-fee.png" },
+  { "itemId": 1140, "subcategoryId": 147, "name": "Specialist Consultation", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/specialist.png" },
+  { "itemId": 1141, "subcategoryId": 147, "name": "Teleconsultation", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/teleconsult.png" },
+
+  { "itemId": 1142, "subcategoryId": 148, "name": "Vitamin C 60 Tablets", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/vitamin-c.png" },
+  { "itemId": 1143, "subcategoryId": 148, "name": "Protein Powder 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/protein.png" },
+  { "itemId": 1144, "subcategoryId": 148, "name": "Multivitamin", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/multivitamin.png" },
+
+  { "itemId": 1145, "subcategoryId": 149, "name": "Auto Rickshaw Fare", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/auto-fare.png" },
+  { "itemId": 1146, "subcategoryId": 149, "name": "City Bus Fare", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/bus-fare.png" },
+  { "itemId": 1147, "subcategoryId": 149, "name": "Metro Ride", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/metro.png" },
+
+  { "itemId": 1148, "subcategoryId": 150, "name": "Train Ticket (Express)", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/train-ticket.png" },
+  { "itemId": 1149, "subcategoryId": 150, "name": "Bus Intercity", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/intercity-bus.png" },
+  { "itemId": 1150, "subcategoryId": 150, "name": "Flight Ticket", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/flight.png" },
+
+  { "itemId": 1151, "subcategoryId": 151, "name": "Hotel Booking", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/hotel.png" },
+  { "itemId": 1152, "subcategoryId": 151, "name": "Guest House", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/guest-house.png" },
+  { "itemId": 1153, "subcategoryId": 151, "name": "Hostel Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/hostel.png" },
+
+  { "itemId": 1154, "subcategoryId": 152, "name": "In-flight Snack", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/inflight-snack.png" },
+  { "itemId": 1155, "subcategoryId": 152, "name": "Travel Meal", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/travel-meal.png" },
+  { "itemId": 1156, "subcategoryId": 152, "name": "Packaged Water", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/packaged-water.png" },
+
+  { "itemId": 1157, "subcategoryId": 153, "name": "Petrol 1L", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/petrol-1l.png" },
+  { "itemId": 1158, "subcategoryId": 153, "name": "Diesel 1L", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/diesel-1l.png" },
+  { "itemId": 1159, "subcategoryId": 153, "name": "Fuel Additives", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/fuel-additives.png" },
+
+  { "itemId": 1160, "subcategoryId": 154, "name": "CNG Fill", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/cng-fill.png" },
+  { "itemId": 1161, "subcategoryId": 154, "name": "CNG Valve Service", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/cng-service.png" },
+  { "itemId": 1162, "subcategoryId": 154, "name": "CNG Accessories", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/cng-accessories.png" },
+
+  { "itemId": 1163, "subcategoryId": 155, "name": "Car Service (Minor)", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/car-service-minor.png" },
+  { "itemId": 1164, "subcategoryId": 155, "name": "Bike Service", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/bike-service.png" },
+  { "itemId": 1165, "subcategoryId": 155, "name": "Oil Change", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/oil-change.png" },
+
+  { "itemId": 1166, "subcategoryId": 156, "name": "Car Wash", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/car-wash.png" },
+  { "itemId": 1167, "subcategoryId": 156, "name": "Car Vacuum", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/car-vacuum.png" },
+  { "itemId": 1168, "subcategoryId": 156, "name": "Car Mats", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/car-mats.png" },
+
+  { "itemId": 1169, "subcategoryId": 157, "name": "Electricity Bill", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/electricity-bill.png" },
+  { "itemId": 1170, "subcategoryId": 157, "name": "Late Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/late-fee.png" },
+  { "itemId": 1171, "subcategoryId": 157, "name": "Meter Recharge", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/meter-recharge.png" },
+
+  { "itemId": 1172, "subcategoryId": 158, "name": "Water Bill", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/water-bill.png" },
+  { "itemId": 1173, "subcategoryId": 158, "name": "Sewer Tax", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/sewer-tax.png" },
+  { "itemId": 1174, "subcategoryId": 158, "name": "Water Tank Cleaning", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/water-cleaning.png" },
+
+  { "itemId": 1175, "subcategoryId": 159, "name": "Gas Cylinder Refill", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/gas-refill.png" },
+  { "itemId": 1176, "subcategoryId": 159, "name": "Gas Stove Service", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/gas-service.png" },
+  { "itemId": 1177, "subcategoryId": 159, "name": "LPG Regulator", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/lpg-regulator.png" },
+
+  { "itemId": 1178, "subcategoryId": 160, "name": "DTH Recharge", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/dth-recharge.png" },
+  { "itemId": 1179, "subcategoryId": 160, "name": "Cable Connection Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/cable-fee.png" },
+  { "itemId": 1180, "subcategoryId": 160, "name": "Set Top Box", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/set-top-box.png" },
+
+  { "itemId": 1181, "subcategoryId": 161, "name": "Tuition Fee (Monthly)", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/tuition.png" },
+  { "itemId": 1182, "subcategoryId": 161, "name": "Entrance Exam Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/exam-fee.png" },
+  { "itemId": 1183, "subcategoryId": 161, "name": "Coaching Material", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/coaching-material.png" },
+
+  { "itemId": 1184, "subcategoryId": 162, "name": "Textbook", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/textbook.png" },
+  { "itemId": 1185, "subcategoryId": 162, "name": "Notebook Pack", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/notebook-pack.png" },
+  { "itemId": 1186, "subcategoryId": 162, "name": "Stationery Kit", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/stationery-kit.png" },
+
+  { "itemId": 1187, "subcategoryId": 163, "name": "Udemy Course", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/udemy.png" },
+  { "itemId": 1188, "subcategoryId": 163, "name": "Coursera Subscription", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/coursera.png" },
+  { "itemId": 1189, "subcategoryId": 163, "name": "Certification Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/certification.png" },
+
+  { "itemId": 1190, "subcategoryId": 164, "name": "Exam Registration", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/exam-registration.png" },
+  { "itemId": 1191, "subcategoryId": 164, "name": "Admit Card Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/admit-card.png" },
+  { "itemId": 1192, "subcategoryId": 164, "name": "Result Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/result-fee.png" },
+
+  { "itemId": 1193, "subcategoryId": 165, "name": "Dog Food 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/dog-food-1kg.png" },
+  { "itemId": 1194, "subcategoryId": 165, "name": "Cat Food 1kg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/cat-food-1kg.png" },
+  { "itemId": 1195, "subcategoryId": 165, "name": "Bird Seed 500g", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/bird-seed.png" },
+
+  { "itemId": 1196, "subcategoryId": 166, "name": "Vet Consultation", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/vet-consult.png" },
+  { "itemId": 1197, "subcategoryId": 166, "name": "Vaccination", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/vaccine.png" },
+  { "itemId": 1198, "subcategoryId": 166, "name": "Deworming", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/deworm.png" },
+
+  { "itemId": 1199, "subcategoryId": 167, "name": "Pet Grooming", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/pet-grooming.png" },
+  { "itemId": 1200, "subcategoryId": 167, "name": "Pet Bath", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/pet-bath.png" },
+  { "itemId": 1201, "subcategoryId": 167, "name": "Nail Trim", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/nail-trim.png" },
+
+  { "itemId": 1202, "subcategoryId": 168, "name": "Pet Collar", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/pet-collar.png" },
+  { "itemId": 1203, "subcategoryId": 168, "name": "Pet Leash", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/pet-leash.png" },
+  { "itemId": 1204, "subcategoryId": 168, "name": "Pet Toy", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/pet-toy.png" },
+
+  { "itemId": 1205, "subcategoryId": 169, "name": "Movie Ticket", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/movie-ticket.png" },
+  { "itemId": 1206, "subcategoryId": 169, "name": "Streaming Movie Rental", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/movie-rental.png" },
+  { "itemId": 1207, "subcategoryId": 169, "name": "Season Pass", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/season-pass.png" },
+
+  { "itemId": 1208, "subcategoryId": 170, "name": "Concert Ticket", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/concert-ticket.png" },
+  { "itemId": 1209, "subcategoryId": 170, "name": "Event Entry", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/event-entry.png" },
+  { "itemId": 1210, "subcategoryId": 170, "name": "Festival Pass", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/festival-pass.png" },
+
+  { "itemId": 1211, "subcategoryId": 171, "name": "Arcade Game", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/arcade.png" },
+  { "itemId": 1212, "subcategoryId": 171, "name": "Bowling", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/bowling.png" },
+  { "itemId": 1213, "subcategoryId": 171, "name": "Laser Tag", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/laser-tag.png" },
+
+  { "itemId": 1214, "subcategoryId": 172, "name": "Concert Streaming", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/concert-stream.png" },
+  { "itemId": 1215, "subcategoryId": 172, "name": "Online Music Lesson", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/music-lesson.png" },
+  { "itemId": 1216, "subcategoryId": 172, "name": "Karaoke Session", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/karaoke.png" },
+
+  { "itemId": 1217, "subcategoryId": 173, "name": "Home Loan EMI", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/home-emi.png" },
+  { "itemId": 1218, "subcategoryId": 173, "name": "Personal Loan EMI", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/personal-emi.png" },
+  { "itemId": 1219, "subcategoryId": 173, "name": "Car Loan EMI", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/car-emi.png" },
+
+  { "itemId": 1220, "subcategoryId": 174, "name": "Health Insurance", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/health-insurance.png" },
+  { "itemId": 1221, "subcategoryId": 174, "name": "Life Insurance", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/life-insurance.png" },
+  { "itemId": 1222, "subcategoryId": 174, "name": "Vehicle Insurance", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/vehicle-insurance.png" },
+
+  { "itemId": 1223, "subcategoryId": 175, "name": "Bank Service Charge", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/bank-charge.png" },
+  { "itemId": 1224, "subcategoryId": 175, "name": "ATM Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/atm-fee.png" },
+  { "itemId": 1225, "subcategoryId": 175, "name": "Cheque Bounce Fee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/cheque-bounce.png" },
+
+  { "itemId": 1226, "subcategoryId": 176, "name": "Mutual Fund Purchase", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/mutual-fund.png" },
+  { "itemId": 1227, "subcategoryId": 176, "name": "Stock Purchase", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/stock.png" },
+  { "itemId": 1228, "subcategoryId": 176, "name": "FD Investment", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/fd.png" },
+
+  { "itemId": 1229, "subcategoryId": 177, "name": "Plumber Visit", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/plumber.png" },
+  { "itemId": 1230, "subcategoryId": 177, "name": "Pipe Replacement", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/pipe-replacement.png" },
+  { "itemId": 1231, "subcategoryId": 177, "name": "Tap Fixing", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/tap-fixing.png" },
+
+  { "itemId": 1232, "subcategoryId": 178, "name": "Electrician Visit", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/electrician.png" },
+  { "itemId": 1233, "subcategoryId": 178, "name": "Wiring Replacement", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/wiring.png" },
+  { "itemId": 1234, "subcategoryId": 178, "name": "Switch Replacement", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/switch-replacement.png" },
+
+  { "itemId": 1235, "subcategoryId": 179, "name": "Carpenter Visit", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/carpenter.png" },
+  { "itemId": 1236, "subcategoryId": 179, "name": "Table Repair", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/table-repair.png" },
+  { "itemId": 1237, "subcategoryId": 179, "name": "Wardrobe Fix", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/wardrobe-fix.png" },
+
+  { "itemId": 1238, "subcategoryId": 180, "name": "Home Deep Cleaning", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/deep-cleaning.png" },
+  { "itemId": 1239, "subcategoryId": 180, "name": "Sofa Cleaning", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/sofa-cleaning.png" },
+  { "itemId": 1240, "subcategoryId": 180, "name": "Window Cleaning", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/items/window-cleaning.png" }
+]

@@ -1,0 +1,101 @@
+[
+  { "subcategoryId": 101, "categoryId": 1, "name": "Rice", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/rice.png" },
+  { "subcategoryId": 102, "categoryId": 1, "name": "Pulses & Lentils", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/pulses.png" },
+  { "subcategoryId": 103, "categoryId": 1, "name": "Spices & Masalas", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/spices.png" },
+  { "subcategoryId": 104, "categoryId": 1, "name": "Oils & Ghee", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/oils.png" },
+
+  { "subcategoryId": 105, "categoryId": 2, "name": "Leafy Greens", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/leafy-greens.png" },
+  { "subcategoryId": 106, "categoryId": 2, "name": "Root Vegetables", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/root-vegetables.png" },
+  { "subcategoryId": 107, "categoryId": 2, "name": "Fresh Vegetables", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/fresh-vegetables.png" },
+  { "subcategoryId": 108, "categoryId": 2, "name": "Organic Veg", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/organic-veg.png" },
+
+  { "subcategoryId": 109, "categoryId": 3, "name": "Citrus & Common", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/citrus.png" },
+  { "subcategoryId": 110, "categoryId": 3, "name": "Tropical & Seasonal", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/tropical.png" },
+  { "subcategoryId": 111, "categoryId": 3, "name": "Berries & Imported", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/berries.png" },
+  { "subcategoryId": 112, "categoryId": 3, "name": "Dry Fruits", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/dry-fruits.png" },
+
+  { "subcategoryId": 113, "categoryId": 4, "name": "Mobile Accessories", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/mobile-accessories.png" },
+  { "subcategoryId": 114, "categoryId": 4, "name": "Home Appliances", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/home-appliances.png" },
+  { "subcategoryId": 115, "categoryId": 4, "name": "Computers & Peripherals", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/computers.png" },
+  { "subcategoryId": 116, "categoryId": 4, "name": "Electricals & Wiring", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/electricals.png" },
+
+  { "subcategoryId": 117, "categoryId": 5, "name": "Men", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/men-clothing.png" },
+  { "subcategoryId": 118, "categoryId": 5, "name": "Women", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/women-clothing.png" },
+  { "subcategoryId": 119, "categoryId": 5, "name": "Kids", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/kids-clothing.png" },
+  { "subcategoryId": 120, "categoryId": 5, "name": "Accessories", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/clothing-accessories.png" },
+
+  { "subcategoryId": 121, "categoryId": 6, "name": "Infant Toys", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/infant-toys.png" },
+  { "subcategoryId": 122, "categoryId": 6, "name": "Educational Toys", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/educational-toys.png" },
+  { "subcategoryId": 123, "categoryId": 6, "name": "Outdoor Toys", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/outdoor-toys.png" },
+  { "subcategoryId": 124, "categoryId": 6, "name": "Board Games", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/board-games.png" },
+
+  { "subcategoryId": 125, "categoryId": 7, "name": "Fiber Providers", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/fiber.png" },
+  { "subcategoryId": 126, "categoryId": 7, "name": "Mobile Data", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/mobile-data.png" },
+  { "subcategoryId": 127, "categoryId": 7, "name": "Prepaid Recharges", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/recharges.png" },
+  { "subcategoryId": 128, "categoryId": 7, "name": "Routers & Modems", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/routers.png" },
+
+  { "subcategoryId": 129, "categoryId": 8, "name": "Video Streaming", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/video-streaming.png" },
+  { "subcategoryId": 130, "categoryId": 8, "name": "Music Streaming", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/music-streaming.png" },
+  { "subcategoryId": 131, "categoryId": 8, "name": "News & Magazines", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/news.png" },
+  { "subcategoryId": 132, "categoryId": 8, "name": "Gaming Subscriptions", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/gaming.png" },
+
+  { "subcategoryId": 133, "categoryId": 9, "name": "Cookware", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/cookware.png" },
+  { "subcategoryId": 134, "categoryId": 9, "name": "Cleaning Supplies", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/cleaning-supplies.png" },
+  { "subcategoryId": 135, "categoryId": 9, "name": "Dining & Serveware", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/dining.png" },
+  { "subcategoryId": 136, "categoryId": 9, "name": "Storage & Organizers", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/storage.png" },
+
+  { "subcategoryId": 137, "categoryId": 10, "name": "Writing Supplies", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/writing.png" },
+  { "subcategoryId": 138, "categoryId": 10, "name": "Notebooks & Paper", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/notebooks.png" },
+  { "subcategoryId": 139, "categoryId": 10, "name": "Office Equipment", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/office-equipment.png" },
+  { "subcategoryId": 140, "categoryId": 10, "name": "Art Supplies", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/art-supplies.png" },
+
+  { "subcategoryId": 141, "categoryId": 11, "name": "Hair Care", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/hair-care.png" },
+  { "subcategoryId": 142, "categoryId": 11, "name": "Skin Care", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/skin-care.png" },
+  { "subcategoryId": 143, "categoryId": 11, "name": "Oral Care", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/oral-care.png" },
+  { "subcategoryId": 144, "categoryId": 11, "name": "Grooming Tools", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/grooming.png" },
+
+  { "subcategoryId": 145, "categoryId": 12, "name": "Pharmacy", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/pharmacy.png" },
+  { "subcategoryId": 146, "categoryId": 12, "name": "Diagnostics", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/diagnostics.png" },
+  { "subcategoryId": 147, "categoryId": 12, "name": "Doctor Fees", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/doctor-fees.png" },
+  { "subcategoryId": 148, "categoryId": 12, "name": "Health Supplements", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/supplements.png" },
+
+  { "subcategoryId": 149, "categoryId": 13, "name": "Local Transport", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/local-transport.png" },
+  { "subcategoryId": 150, "categoryId": 13, "name": "Long Distance", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/long-distance.png" },
+  { "subcategoryId": 151, "categoryId": 13, "name": "Accommodation", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/accommodation.png" },
+  { "subcategoryId": 152, "categoryId": 13, "name": "Travel Food", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/travel-food.png" },
+
+  { "subcategoryId": 153, "categoryId": 14, "name": "Petrol/Diesel", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/fuel.png" },
+  { "subcategoryId": 154, "categoryId": 14, "name": "CNG", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/cng.png" },
+  { "subcategoryId": 155, "categoryId": 14, "name": "Service & Repairs", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/service.png" },
+  { "subcategoryId": 156, "categoryId": 14, "name": "Car Wash & Accessories", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/car-wash.png" },
+
+  { "subcategoryId": 157, "categoryId": 15, "name": "Electricity", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/electricity.png" },
+  { "subcategoryId": 158, "categoryId": 15, "name": "Water", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/water.png" },
+  { "subcategoryId": 159, "categoryId": 15, "name": "Gas", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/gas.png" },
+  { "subcategoryId": 160, "categoryId": 15, "name": "DTH & Cable", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/dth.png" },
+
+  { "subcategoryId": 161, "categoryId": 16, "name": "Tuition & Coaching", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/coaching.png" },
+  { "subcategoryId": 162, "categoryId": 16, "name": "Books & Supplies", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/books.png" },
+  { "subcategoryId": 163, "categoryId": 16, "name": "Online Courses", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/online-courses.png" },
+  { "subcategoryId": 164, "categoryId": 16, "name": "Exams & Fees", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/exams.png" },
+
+  { "subcategoryId": 165, "categoryId": 17, "name": "Pet Food", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/pet-food.png" },
+  { "subcategoryId": 166, "categoryId": 17, "name": "Vet & Health", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/vet.png" },
+  { "subcategoryId": 167, "categoryId": 17, "name": "Grooming", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/grooming-pet.png" },
+  { "subcategoryId": 168, "categoryId": 17, "name": "Accessories", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/pet-accessories.png" },
+
+  { "subcategoryId": 169, "categoryId": 18, "name": "Movies & Shows", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/movies.png" },
+  { "subcategoryId": 170, "categoryId": 18, "name": "Events & Tickets", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/events.png" },
+  { "subcategoryId": 171, "categoryId": 18, "name": "Games & Leisure", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/games.png" },
+  { "subcategoryId": 172, "categoryId": 18, "name": "Music & Streaming", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/music.png" },
+
+  { "subcategoryId": 173, "categoryId": 19, "name": "Loans & EMI", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/loans.png" },
+  { "subcategoryId": 174, "categoryId": 19, "name": "Insurance", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/insurance.png" },
+  { "subcategoryId": 175, "categoryId": 19, "name": "Bank Charges", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/bank-charges.png" },
+  { "subcategoryId": 176, "categoryId": 19, "name": "Investments", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/investments.png" },
+
+  { "subcategoryId": 177, "categoryId": 20, "name": "Plumbing", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/plumbing.png" },
+  { "subcategoryId": 178, "categoryId": 20, "name": "Electrician", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/electrician.png" },
+  { "subcategoryId": 179, "categoryId": 20, "name": "Carpentry", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/carpentry.png" },
+  { "subcategoryId": 180, "categoryId": 20, "name": "Cleaning Services", "image": "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/subcategories/cleaning-services.png" }
+]

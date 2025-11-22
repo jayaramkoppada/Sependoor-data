@@ -1,93 +1,24 @@
 [
-  {
-    "id": "0f1e8d0a-3d6a-49fd-8a9b-2cfa3cdbd217",
-    "name": "Breakfast",
-    "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
-    "subcategoryName": "Meals",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/breakfast.jpg"
-  },
-  {
-    "id": "d1d44f2d-8a22-4b55-85dc-05d4d7b25d68",
-    "name": "Lunch",
-    "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
-    "subcategoryName": "Meals",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/lunch.jpg"
-  },
-  {
-    "id": "ab7d57eb-47a0-4df3-8206-1b2a7953268c",
-    "name": "Dinner",
-    "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
-    "subcategoryName": "Meals",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/dinner.jpg"
-  },
-  {
-    "id": "e7abfadc-4806-4b54-a550-43bde6f89a38",
-    "name": "Snacks",
-    "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
-    "subcategoryName": "Snacks & Refreshments",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/snacks.jpg"
-  },
-  {
-    "id": "fd4197cb-ffdb-48a3-9cb2-a1119f6fa8c9",
-    "name": "Vegetables",
-    "categoryId": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
-    "subcategoryName": "Daily Essentials",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/vegetables.jpg"
-  },
-  {
-    "id": "73496b79-23f0-4fe2-aab0-94e0a72e6d6e",
-    "name": "Fruits",
-    "categoryId": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
-    "subcategoryName": "Daily Essentials",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/fruits.jpg"
-  },
-  {
-    "id": "6b5d7e3c-8c3d-492a-bd3b-437ab170f8c3",
-    "name": "Milk",
-    "categoryId": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
-    "subcategoryName": "Daily Essentials",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/milk.jpg"
-  },
-  {
-    "id": "7bfa0973-d92d-46cb-b65a-d293b5c37e55",
-    "name": "Mobile Charger",
-    "categoryId": "27523702-9cb8-4c9b-b3ab-6b2f54165861",
-    "subcategoryName": "Accessories",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/mobile changer.jpg"
-  },
-  {
-    "id": "ddbc8037-cc2a-4c3f-b1e8-78b32899f6f2",
-    "name": "Smartwatch",
-    "categoryId": "27523702-9cb8-4c9b-b3ab-6b2f54165861",
-    "subcategoryName": "Gadgets",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/smart-watch.jpg"
-  },
-  {
-    "id": "b6ca802e-43fc-4d9e-82ce-0c58936d8da3",
-    "name": "Clothes",
-    "categoryId": "f9c9a7d9-5ea3-4f7d-b9a7-c3c293f0a3ba",
-    "subcategoryName": "Fashion",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/clothes.jpg"
-  },
-  {
-    "id": "3f51b277-7bb0-44f1-9f04-6b369f34ea52",
-    "name": "Shoes",
-    "categoryId": "f9c9a7d9-5ea3-4f7d-b9a7-c3c293f0a3ba",
-    "subcategoryName": "Fashion",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/shoes.jpg"
-  },
-  {
-    "id": "f2868c67-336e-4690-9c31-0bd0d2d1dd9d",
-    "name": "Auto",
-    "categoryId": "a45bdb4f-2582-4223-91c9-3efbe0dbfebc",
-    "subcategoryName": "Local Transport",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/auto.jpg"
-  },
-  {
-    "id": "cbe23d3a-25af-4d57-a273-3292b21f85e4",
-    "name": "Fuel",
-    "categoryId": "a45bdb4f-2582-4223-91c9-3efbe0dbfebc",
-    "subcategoryName": "Vehicle",
-    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/fuel.jpg"
-  }
+// Food
+{"id":"f1","name":"Pizza","categoryId":"c1","subcategoryname":"Fast Food","imageUrl":"https://images.unsplash.com/photo-1601924582975-96a3b03a02b5?auto=format&fit=crop&w=500&q=60"},
+{"id":"f2","name":"Burger","categoryId":"c1","subcategoryname":"Fast Food","imageUrl":"https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=500&q=60"},
+{"id":"f3","name":"Salad","categoryId":"c1","subcategoryname":"Healthy","imageUrl":"https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=500&q=60"},
+{"id":"f4","name":"Sushi","categoryId":"c1","subcategoryname":"Asian Food","imageUrl":"https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=500&q=60"},
+{"id":"f5","name":"Pasta","categoryId":"c1","subcategoryname":"Italian","imageUrl":"https://images.unsplash.com/photo-1521389508051-d7ffb5dc8e5d?auto=format&fit=crop&w=500&q=60"},
+{"id":"f6","name":"Ice Cream","categoryId":"c1","subcategoryname":"Dessert","imageUrl":"https://images.unsplash.com/photo-1570197789576-1b6f0b70e3c3?auto=format&fit=crop&w=500&q=60"},
+{"id":"f7","name":"Fruits","categoryId":"c1","subcategoryname":"Healthy","imageUrl":"https://images.unsplash.com/photo-1574226516831-e1dff420e8f8?auto=format&fit=crop&w=500&q=60"},
+{"id":"f8","name":"Sandwich","categoryId":"c1","subcategoryname":"Quick Bite","imageUrl":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=500&q=60"},
+{"id":"f9","name":"Soup","categoryId":"c1","subcategoryname":"Healthy","imageUrl":"https://images.unsplash.com/photo-1561043433-aaf687c4cf4b?auto=format&fit=crop&w=500&q=60"},
+{"id":"f10","name":"Steak","categoryId":"c1","subcategoryname":"Meat","imageUrl":"https://images.unsplash.com/photo-1601050691483-fd34a6a7ef7f?auto=format&fit=crop&w=500&q=60"},
+{"id":"f11","name":"Tacos","categoryId":"c1","subcategoryname":"Mexican","imageUrl":"https://images.unsplash.com/photo-1600891964271-91497e9c1e5a?auto=format&fit=crop&w=500&q=60"},
+{"id":"f12","name":"Dumplings","categoryId":"c1","subcategoryname":"Asian Food","imageUrl":"https://images.unsplash.com/photo-1590080877155-fdba46b7e2f1?auto=format&fit=crop&w=500&q=60"},
+{"id":"f13","name":"Paella","categoryId":"c1","subcategoryname":"Spanish","imageUrl":"https://images.unsplash.com/photo-1600891964393-9db9f246d4df?auto=format&fit=crop&w=500&q=60"},
+{"id":"f14","name":"Noodles","categoryId":"c1","subcategoryname":"Asian Food","imageUrl":"https://images.unsplash.com/photo-1600891964414-1bb2b7bb91a2?auto=format&fit=crop&w=500&q=60"},
+{"id":"f15","name":"Curry","categoryId":"c1","subcategoryname":"Indian","imageUrl":"https://images.unsplash.com/photo-1600891964436-3e68a0ee2f2f?auto=format&fit=crop&w=500&q=60"},
+  // Transport
+{"id":"t1","name":"Bus","categoryId":"c2","subcategoryname":"Public Transport","imageUrl":"https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=500&q=60"},
+{"id":"t2","name":"Taxi","categoryId":"c2","subcategoryname":"Private Transport","imageUrl":"https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=500&q=60"},
+{"id":"t3","name":"Train","categoryId":"c2","subcategoryname":"Public Transport","imageUrl":"https://images.unsplash.com/photo-1517404215738-152b5fc0c2b7?auto=format&fit=crop&w=500&q=60"},
+{"id":"t4","name":"Bike","categoryId":"c2","subcategoryname":"Personal Transport","imageUrl":"https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=500&q=60"},
+{"id":"t5","name":"Car Rental","categoryId":"c2","subcategoryname":"Private Transport","imageUrl":"https://images.unsplash.com/photo-1549924235-d2e56d7c5f27?auto=format&fit=crop&w=500&q=60"}
 ]

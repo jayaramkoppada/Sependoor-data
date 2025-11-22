@@ -4,90 +4,90 @@
     "name": "Breakfast",
     "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
     "subcategoryName": "Meals",
-    "imageUrl": "https://example.com/images/items/breakfast.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/breakfast.jpg"
   },
   {
     "id": "d1d44f2d-8a22-4b55-85dc-05d4d7b25d68",
     "name": "Lunch",
     "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
     "subcategoryName": "Meals",
-    "imageUrl": "https://example.com/images/items/lunch.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/lunch.jpg"
   },
   {
     "id": "ab7d57eb-47a0-4df3-8206-1b2a7953268c",
     "name": "Dinner",
     "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
     "subcategoryName": "Meals",
-    "imageUrl": "https://example.com/images/items/dinner.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/dinner.jpg"
   },
   {
     "id": "e7abfadc-4806-4b54-a550-43bde6f89a38",
     "name": "Snacks",
     "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
     "subcategoryName": "Snacks & Refreshments",
-    "imageUrl": "https://example.com/images/items/snacks.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/snacks.jpg"
   },
   {
     "id": "fd4197cb-ffdb-48a3-9cb2-a1119f6fa8c9",
     "name": "Vegetables",
     "categoryId": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
     "subcategoryName": "Daily Essentials",
-    "imageUrl": "https://example.com/images/items/vegetables.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/vegetables.jpg"
   },
   {
     "id": "73496b79-23f0-4fe2-aab0-94e0a72e6d6e",
     "name": "Fruits",
     "categoryId": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
     "subcategoryName": "Daily Essentials",
-    "imageUrl": "https://example.com/images/items/fruits.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/fruits.jpg"
   },
   {
     "id": "6b5d7e3c-8c3d-492a-bd3b-437ab170f8c3",
     "name": "Milk",
     "categoryId": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
     "subcategoryName": "Daily Essentials",
-    "imageUrl": "https://example.com/images/items/milk.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/milk.jpg"
   },
   {
     "id": "7bfa0973-d92d-46cb-b65a-d293b5c37e55",
     "name": "Mobile Charger",
     "categoryId": "27523702-9cb8-4c9b-b3ab-6b2f54165861",
     "subcategoryName": "Accessories",
-    "imageUrl": "https://example.com/images/items/charger.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/mobile changer.jpg"
   },
   {
     "id": "ddbc8037-cc2a-4c3f-b1e8-78b32899f6f2",
     "name": "Smartwatch",
     "categoryId": "27523702-9cb8-4c9b-b3ab-6b2f54165861",
     "subcategoryName": "Gadgets",
-    "imageUrl": "https://example.com/images/items/smartwatch.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/smart-watch.jpg"
   },
   {
     "id": "b6ca802e-43fc-4d9e-82ce-0c58936d8da3",
     "name": "Clothes",
     "categoryId": "f9c9a7d9-5ea3-4f7d-b9a7-c3c293f0a3ba",
     "subcategoryName": "Fashion",
-    "imageUrl": "https://example.com/images/items/clothes.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/clothes.jpg"
   },
   {
     "id": "3f51b277-7bb0-44f1-9f04-6b369f34ea52",
     "name": "Shoes",
     "categoryId": "f9c9a7d9-5ea3-4f7d-b9a7-c3c293f0a3ba",
     "subcategoryName": "Fashion",
-    "imageUrl": "https://example.com/images/items/shoes.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/shoes.jpg"
   },
   {
     "id": "f2868c67-336e-4690-9c31-0bd0d2d1dd9d",
     "name": "Auto",
     "categoryId": "a45bdb4f-2582-4223-91c9-3efbe0dbfebc",
     "subcategoryName": "Local Transport",
-    "imageUrl": "https://example.com/images/items/auto.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/auto.jpg"
   },
   {
     "id": "cbe23d3a-25af-4d57-a273-3292b21f85e4",
     "name": "Fuel",
     "categoryId": "a45bdb4f-2582-4223-91c9-3efbe0dbfebc",
     "subcategoryName": "Vehicle",
-    "imageUrl": "https://example.com/images/items/fuel.png"
+    "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/fuel.jpg"
   }
 ]

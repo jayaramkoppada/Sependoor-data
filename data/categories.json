@@ -2,26 +2,26 @@
   {
     "id": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
     "name": "Food & Dining",
-    "imageUrl": "https://example.com/images/categories/food.png"
+    "imageUrl": "https://github.com/jayaramkoppada/Sependoor-data/blob/addimages/data/images/categories/food & Dining.webp"
   },
   {
     "id": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
     "name": "Groceries",
-    "imageUrl": "https://example.com/images/categories/groceries.png"
+    "imageUrl": "https://github.com/jayaramkoppada/Sependoor-data/blob/addimages/data/images/categories/groceries.jpg"
   },
   {
     "id": "27523702-9cb8-4c9b-b3ab-6b2f54165861",
     "name": "Electronics",
-    "imageUrl": "https://example.com/images/categories/electronics.png"
+    "imageUrl": "https://github.com/jayaramkoppada/Sependoor-data/blob/addimages/data/images/categories/electronics.jpg"
   },
   {
     "id": "f9c9a7d9-5ea3-4f7d-b9a7-c3c293f0a3ba",
     "name": "Shopping",
-    "imageUrl": "https://example.com/images/categories/shopping.png"
+    "imageUrl": "https://github.com/jayaramkoppada/Sependoor-data/blob/addimages/data/images/categories/shopping.jpg"
   },
   {
     "id": "a45bdb4f-2582-4223-91c9-3efbe0dbfebc",
     "name": "Transport",
-    "imageUrl": "https://example.com/images/categories/transport.png"
+    "imageUrl": "https://github.com/jayaramkoppada/Sependoor-data/blob/addimages/data/images/categories/transportjpg"
   }
 ]

@@ -1,105 +1,93 @@
 [
   {
-    "id": 1,
-    "name": "Basmati Rice",
-    "subcategoryId": 1,
-    "imageUrl": "https://via.placeholder.com/100"
+    "id": "0f1e8d0a-3d6a-49fd-8a9b-2cfa3cdbd217",
+    "name": "Breakfast",
+    "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
+    "subcategoryName": "Meals",
+    "imageUrl": "https://example.com/images/items/breakfast.png"
   },
   {
-    "id": 2,
-    "name": "Sona Masoori Rice",
-    "subcategoryId": 1,
-    "imageUrl": "https://via.placeholder.com/100"
-  },
-
-  {
-    "id": 3,
-    "name": "Chili Powder",
-    "subcategoryId": 2,
-    "imageUrl": "https://via.placeholder.com/100"
+    "id": "d1d44f2d-8a22-4b55-85dc-05d4d7b25d68",
+    "name": "Lunch",
+    "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
+    "subcategoryName": "Meals",
+    "imageUrl": "https://example.com/images/items/lunch.png"
   },
   {
-    "id": 4,
-    "name": "Turmeric Powder",
-    "subcategoryId": 2,
-    "imageUrl": "https://via.placeholder.com/100"
-  },
-
-  {
-    "id": 5,
-    "name": "USB Cable",
-    "subcategoryId": 3,
-    "imageUrl": "https://via.placeholder.com/100"
+    "id": "ab7d57eb-47a0-4df3-8206-1b2a7953268c",
+    "name": "Dinner",
+    "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
+    "subcategoryName": "Meals",
+    "imageUrl": "https://example.com/images/items/dinner.png"
   },
   {
-    "id": 6,
-    "name": "Fast Charger",
-    "subcategoryId": 3,
-    "imageUrl": "https://via.placeholder.com/100"
-  },
-
-  {
-    "id": 7,
-    "name": "Gaming Laptop",
-    "subcategoryId": 4,
-    "imageUrl": "https://via.placeholder.com/100"
+    "id": "e7abfadc-4806-4b54-a550-43bde6f89a38",
+    "name": "Snacks",
+    "categoryId": "c1f1a0d3-4d02-4f62-9e81-7c01b1b70f10",
+    "subcategoryName": "Snacks & Refreshments",
+    "imageUrl": "https://example.com/images/items/snacks.png"
   },
   {
-    "id": 8,
-    "name": "Business Laptop",
-    "subcategoryId": 4,
-    "imageUrl": "https://via.placeholder.com/100"
-  },
-
-  {
-    "id": 9,
-    "name": "Men T-Shirt",
-    "subcategoryId": 5,
-    "imageUrl": "https://via.placeholder.com/100"
+    "id": "fd4197cb-ffdb-48a3-9cb2-a1119f6fa8c9",
+    "name": "Vegetables",
+    "categoryId": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
+    "subcategoryName": "Daily Essentials",
+    "imageUrl": "https://example.com/images/items/vegetables.png"
   },
   {
-    "id": 10,
-    "name": "Men Jeans",
-    "subcategoryId": 5,
-    "imageUrl": "https://via.placeholder.com/100"
-  },
-
-  {
-    "id": 11,
-    "name": "Women Kurti",
-    "subcategoryId": 6,
-    "imageUrl": "https://via.placeholder.com/100"
+    "id": "73496b79-23f0-4fe2-aab0-94e0a72e6d6e",
+    "name": "Fruits",
+    "categoryId": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
+    "subcategoryName": "Daily Essentials",
+    "imageUrl": "https://example.com/images/items/fruits.png"
   },
   {
-    "id": 12,
-    "name": "Women Tops",
-    "subcategoryId": 6,
-    "imageUrl": "https://via.placeholder.com/100"
-  },
-
-  {
-    "id": 13,
-    "name": "Mixer Grinder",
-    "subcategoryId": 7,
-    "imageUrl": "https://via.placeholder.com/100"
+    "id": "6b5d7e3c-8c3d-492a-bd3b-437ab170f8c3",
+    "name": "Milk",
+    "categoryId": "fd29b599-b4ac-4e0e-a873-11c77d7b9a55",
+    "subcategoryName": "Daily Essentials",
+    "imageUrl": "https://example.com/images/items/milk.png"
   },
   {
-    "id": 14,
-    "name": "Rice Cooker",
-    "subcategoryId": 7,
-    "imageUrl": "https://via.placeholder.com/100"
-  },
-
-  {
-    "id": 15,
-    "name": "Office Chair",
-    "subcategoryId": 8,
-    "imageUrl": "https://via.placeholder.com/100"
+    "id": "7bfa0973-d92d-46cb-b65a-d293b5c37e55",
+    "name": "Mobile Charger",
+    "categoryId": "27523702-9cb8-4c9b-b3ab-6b2f54165861",
+    "subcategoryName": "Accessories",
+    "imageUrl": "https://example.com/images/items/charger.png"
   },
   {
-    "id": 16,
-    "name": "Wooden Table",
-    "subcategoryId": 8,
-    "imageUrl": "https://via.placeholder.com/100"
+    "id": "ddbc8037-cc2a-4c3f-b1e8-78b32899f6f2",
+    "name": "Smartwatch",
+    "categoryId": "27523702-9cb8-4c9b-b3ab-6b2f54165861",
+    "subcategoryName": "Gadgets",
+    "imageUrl": "https://example.com/images/items/smartwatch.png"
+  },
+  {
+    "id": "b6ca802e-43fc-4d9e-82ce-0c58936d8da3",
+    "name": "Clothes",
+    "categoryId": "f9c9a7d9-5ea3-4f7d-b9a7-c3c293f0a3ba",
+    "subcategoryName": "Fashion",
+    "imageUrl": "https://example.com/images/items/clothes.png"
+  },
+  {
+    "id": "3f51b277-7bb0-44f1-9f04-6b369f34ea52",
+    "name": "Shoes",
+    "categoryId": "f9c9a7d9-5ea3-4f7d-b9a7-c3c293f0a3ba",
+    "subcategoryName": "Fashion",
+    "imageUrl": "https://example.com/images/items/shoes.png"
+  },
+  {
+    "id": "f2868c67-336e-4690-9c31-0bd0d2d1dd9d",
+    "name": "Auto",
+    "categoryId": "a45bdb4f-2582-4223-91c9-3efbe0dbfebc",
+    "subcategoryName": "Local Transport",
+    "imageUrl": "https://example.com/images/items/auto.png"
+  },
+  {
+    "id": "cbe23d3a-25af-4d57-a273-3292b21f85e4",
+    "name": "Fuel",
+    "categoryId": "a45bdb4f-2582-4223-91c9-3efbe0dbfebc",
+    "subcategoryName": "Vehicle",
+    "imageUrl": "https://example.com/images/items/fuel.png"
   }
 ]

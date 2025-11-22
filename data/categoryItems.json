@@ -1,5 +1,4 @@
 [
-// Food
 {"id":"f1","name":"Pizza","categoryId":"c1","subcategoryname":"Fast Food","imageUrl":"https://images.unsplash.com/photo-1601924582975-96a3b03a02b5?auto=format&fit=crop&w=500&q=60"},
 {"id":"f2","name":"Burger","categoryId":"c1","subcategoryname":"Fast Food","imageUrl":"https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=500&q=60"},
 {"id":"f3","name":"Salad","categoryId":"c1","subcategoryname":"Healthy","imageUrl":"https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=500&q=60"},
@@ -15,7 +14,7 @@
 {"id":"f13","name":"Paella","categoryId":"c1","subcategoryname":"Spanish","imageUrl":"https://images.unsplash.com/photo-1600891964393-9db9f246d4df?auto=format&fit=crop&w=500&q=60"},
 {"id":"f14","name":"Noodles","categoryId":"c1","subcategoryname":"Asian Food","imageUrl":"https://images.unsplash.com/photo-1600891964414-1bb2b7bb91a2?auto=format&fit=crop&w=500&q=60"},
 {"id":"f15","name":"Curry","categoryId":"c1","subcategoryname":"Indian","imageUrl":"https://images.unsplash.com/photo-1600891964436-3e68a0ee2f2f?auto=format&fit=crop&w=500&q=60"},
-  // Transport
+
 {"id":"t1","name":"Bus","categoryId":"c2","subcategoryname":"Public Transport","imageUrl":"https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=500&q=60"},
 {"id":"t2","name":"Taxi","categoryId":"c2","subcategoryname":"Private Transport","imageUrl":"https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=500&q=60"},
 {"id":"t3","name":"Train","categoryId":"c2","subcategoryname":"Public Transport","imageUrl":"https://images.unsplash.com/photo-1517404215738-152b5fc0c2b7?auto=format&fit=crop&w=500&q=60"},

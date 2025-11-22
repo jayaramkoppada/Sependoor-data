@@ -1,24 +1,15 @@
-[ {"id":"c1","name":"Food","imageUrl":"https://images.unsplash.com/photo-1600891964599-
-f61ba0e24092?auto=format&fit=crop&w=500&q=60"}, {"id":"c2","name":"Transport","imageUrl":"https://
-images.unsplash.com/photo-1504215680853-026ed2a45def?auto=format&fit=crop&w=500&q=60"},
-{"id":"c3","name":"Shopping","imageUrl":"https://images.unsplash.com/
-photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=500&q=60"},
-{"id":"c4","name":"Entertainment","imageUrl":"https://images.unsplash.com/photo-1511671782779-
-c97d3d27a1d4?auto=format&fit=crop&w=500&q=60"}, {"id":"c5","name":"Health","imageUrl":"https://
-images.unsplash.com/photo-1588776814546-ec3a1f1b16f0?auto=format&fit=crop&w=500&q=60"},
-{"id":"c6","name":"Education","imageUrl":"https://images.unsplash.com/
-photo-1529070538774-1843cb3265df?auto=format&fit=crop&w=500&q=60"},
-{"id":"c7","name":"Travel","imageUrl":"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?
-auto=format&fit=crop&w=500&q=60"}, {"id":"c8","name":"Bills","imageUrl":"https://images.unsplash.com/
-photo-1581092795360-7d6b24e206c1?auto=format&fit=crop&w=500&q=60"},
-{"id":"c9","name":"Gifts","imageUrl":"https://images.unsplash.com/photo-1519681393784-d120267933ba?
-auto=format&fit=crop&w=500&q=60"}, {"id":"c10","name":"Miscellaneous","imageUrl":"https://
-images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=500&q=60"},
-{"id":"c11","name":"Sports","imageUrl":"https://images.unsplash.com/photo-1521412644187-c49fa049e84d?
-auto=format&fit=crop&w=500&q=60"}, {"id":"c12","name":"Pets","imageUrl":"https://images.unsplash.com/
-photo-1558788353-f76d92427f16?auto=format&fit=crop&w=500&q=60"},
-{"id":"c13","name":"Technology","imageUrl":"https://images.unsplash.com/photo-1518779578993-
-ec3579fee39f?auto=format&fit=crop&w=500&q=60"}, {"id":"c14","name":"Beauty","imageUrl":"https://
-images.unsplash.com/photo-1512418490979-92798cec0f58?auto=format&fit=crop&w=500&q=60"},
-{"id":"c15","name":"Home","imageUrl":"https://images.unsplash.com/photo-1598300052013-9b96b0f22e55?
-auto=format&fit=crop&w=500&q=60"} ]
+[ {"id":"c1","name":"Food","imageUrl":"https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=500&q=60"}, 
+  {"id":"c2","name":"Transport","imageUrl":"https://images.unsplash.com/photo-1504215680853-026ed2a45def?auto=format&fit=crop&w=500&q=60"},
+{"id":"c3","name":"Shopping","imageUrl":"https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=500&q=60"},
+{"id":"c4","name":"Entertainment","imageUrl":"https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=500&q=60"}, 
+  {"id":"c5","name":"Health","imageUrl":"https://images.unsplash.com/photo-1588776814546-ec3a1f1b16f0?auto=format&fit=crop&w=500&q=60"},
+{"id":"c6","name":"Education","imageUrl":"https://images.unsplash.com/photo-1529070538774-1843cb3265df?auto=format&fit=crop&w=500&q=60"},
+{"id":"c7","name":"Travel","imageUrl":"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=500&q=60"},
+  {"id":"c8","name":"Bills","imageUrl":"https://images.unsplash.com/photo-1581092795360-7d6b24e206c1?auto=format&fit=crop&w=500&q=60"},
+{"id":"c9","name":"Gifts","imageUrl":"https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=500&q=60"}, 
+  {"id":"c10","name":"Miscellaneous","imageUrl":"https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=500&q=60"},
+{"id":"c11","name":"Sports","imageUrl":"https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=500&q=60"}, 
+  {"id":"c12","name":"Pets","imageUrl":"https://images.unsplash.com/photo-1558788353-f76d92427f16?auto=format&fit=crop&w=500&q=60"},
+{"id":"c13","name":"Technology","imageUrl":"https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=500&q=60"},
+  {"id":"c14","name":"Beauty","imageUrl":"https://images.unsplash.com/photo-1512418490979-92798cec0f58?auto=format&fit=crop&w=500&q=60"},
+{"id":"c15","name":"Home","imageUrl":"https://images.unsplash.com/photo-1598300052013-9b96b0f22e55?auto=format&fit=crop&w=500&q=60"} ]

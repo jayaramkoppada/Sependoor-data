@@ -25,42 +25,42 @@
       "name": "Rice",
       "categoryId": "g1",
       "subcategoryname": "Grains & Rice",
-      "imageUrl": "https://source.unsplash.com/500x500/?Rice"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/grocery%20item.jpg"
     },
     {
       "id": "92c8a078-0544-4093-bc2e-ecf7ef6a273a",
       "name": "Wheat",
       "categoryId": "g1",
       "subcategoryname": "Grains & Rice",
-      "imageUrl": "https://source.unsplash.com/500x500/?Wheat"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/grocery%20item.jpg"
     },
     {
       "id": "f3055fdc-c678-4e7f-91ee-11ad186527d3",
       "name": "Poha",
       "categoryId": "g1",
       "subcategoryname": "Grains & Rice",
-      "imageUrl": "https://source.unsplash.com/500x500/?Poha"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/grocery%20item.jpg"
     },
     {
       "id": "168d549d-896f-485b-8df9-2c60377d521a",
       "name": "Rava",
       "categoryId": "g1",
       "subcategoryname": "Grains & Rice",
-      "imageUrl": "https://source.unsplash.com/500x500/?Rava"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/grocery%20item.jpg"
     },
     {
       "id": "e1541383-e0e1-4cd2-be1e-0b58a2f6c08d",
       "name": "Basmati Rice",
       "categoryId": "g1",
       "subcategoryname": "Grains & Rice",
-      "imageUrl": "https://source.unsplash.com/500x500/?BasmatiRice"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/grocery%20item.jpg"
     },
     {
       "id": "1db93cea-2a9b-4c93-957f-a336da599a70",
       "name": "Broken Rice",
       "categoryId": "g1",
       "subcategoryname": "Grains & Rice",
-      "imageUrl": "https://source.unsplash.com/500x500/?BrokenRice"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categoryItems/grocery%20item.jpg"
     },
     {
       "id": "72342f5f-7a28-4d58-8952-4dfc3d3cef01",

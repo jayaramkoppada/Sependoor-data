@@ -17,46 +17,46 @@
   {
       "id": "g1",
       "name": "Grains & Rice",
-      "imageUrl": "https://source.unsplash.com/500x500/?Grains&Rice"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categories/grocery.png"
     },
     {
       "id": "g2",
       "name": "Spices & Masala",
-      "imageUrl": "https://source.unsplash.com/500x500/?Spices&Masala"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categories/grocery.png"
     },
     {
       "id": "g3",
       "name": "Salt & Sugar",
-      "imageUrl": "https://source.unsplash.com/500x500/?Salt&Sugar"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categories/grocery.png"
     },
     {
       "id": "g4",
       "name": "Oils & Ghee",
-      "imageUrl": "https://source.unsplash.com/500x500/?Oils&Ghee"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categories/grocery.png"
     },
     {
       "id": "g5",
       "name": "Pulses & Lentils",
-      "imageUrl": "https://source.unsplash.com/500x500/?Pulses&Lentils"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categories/grocery.png"
     },
     {
       "id": "g6",
       "name": "Snacks & Beverages",
-      "imageUrl": "https://source.unsplash.com/500x500/?Snacks&Beverages"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categories/grocery.png"
     },
     {
       "id": "g7",
       "name": "Bakery & Bread",
-      "imageUrl": "https://source.unsplash.com/500x500/?Bakery&Bread"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categories/grocery.png"
     },
     {
       "id": "g8",
       "name": "Dairy & Eggs",
-      "imageUrl": "https://source.unsplash.com/500x500/?Dairy&Eggs"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categories/grocery.png"
     },
     {
       "id": "g9",
       "name": "Packaged Food",
-      "imageUrl": "https://source.unsplash.com/500x500/?PackagedFood"
+      "imageUrl": "https://raw.githubusercontent.com/jayaramkoppada/Sependoor-data/refs/heads/main/data/images/categories/grocery.png"
     }
 ]
